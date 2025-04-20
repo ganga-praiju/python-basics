@@ -1,3 +1,9 @@
+intro.py
+
+hallo everyone this is my first program
+my name is ganga
+i am a data science student
+
 arithmetic_operations.py
 
 Addition of a and b is 15 and of b and a is 15

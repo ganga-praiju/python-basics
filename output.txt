@@ -1,0 +1,8 @@
+Addition of a and b is 15 and of b and a is 15
+Subtraction of a and b is 5 and of b and a is -5
+Multiplication of a and b is 50 and of b and a is 50
+Division of a and b is 2.0 and of b and a is 0.5
+Modulus of a and b is 0 and of b and a is 5
+Exponent of a and b is 100000 and of b and a is 9765625
+Floor division of a and b is 2 and of b and a is 0
+Integer division of a and b is 2 and of b and a is 0

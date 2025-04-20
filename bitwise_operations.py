@@ -1,3 +1,5 @@
+"""This program explores basic bitwise operations like AND, OR, XOR, NOT, left shift, and right shift.
+I wrote this code to deepen my understanding of how bitwise manipulation works at the binary level in Python."""
 a=2
 b=3
 #BITWISE OPERATIONS

@@ -5,18 +5,18 @@ b=3
 #BITWISE OPERATIONS
 #AND.....
 print("Bitwise AND of a and b is",a&b,"and of b and a is",b&a)
-print("")
+
 #OR.....
 print("Bitwise OR of a and b is",a|b,"and of b and a is",b|a)
-print("")
+
 #XOR.....
 print("Bitwise XOR of a and b is",a^b,"and of b and a is",b^a)
-print("")
+
 #NOT.....
 print("Bitwise NOT of a is",~a,"and of b is",~b)
-print("")
+
 #Left Shift.....
 print("Left shift of a by 2 is",a<<2,"and of b is",b<<2)
-print("")
+
 #Right Shift.....
 print("Right shift of a by 2 is",a>>2,"and of b is",b>>2)
